@@ -1,0 +1,32 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-color:#5B85AA;
+}
+section{
+	height:90vh;
+	display:flex;
+	align-items: center;
+	justify-content:center;
+}
+
+.title{
+	font-family: 'Playfair Display', serif;
+	color:white;
+	max-width:800px;
+	width:100%;
+	margin:auto;
+
+	height:50vh;
+	display:flex;
+	align-items: center;
+	justify-content:center;
+}
+
+@font-face {
+  font-family: seagram;
+  src: url(assets/Fonts/Seagramtfb.ttf);
+}
